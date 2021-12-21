@@ -1,5 +1,6 @@
 # project-catwalk
 Project Title - The name of the project
+
 Overview - A brief description outlining what the project
 Table of Contents - You can link to the different sections below
 Description - A more detailed outline of the project. What does it do? Is there a high level list of features? If describing a project that has visual features, consider adding pictures or animations of the features and functionality in this section. See Adding Screen Captures below.
