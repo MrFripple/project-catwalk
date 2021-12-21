@@ -1,5 +1,5 @@
 # project-catwalk
-Project Title - The name of the project
+<!-- Project Title - The name of the project
 Overview - A brief description outlining what the project
 Table of Contents - You can link to the different sections below
 Description - A more detailed outline of the project. What does it do? Is there a high level list of features? If describing a project that has visual features, consider adding pictures or animations of the features and functionality in this section. See Adding Screen Captures below.
@@ -12,3 +12,4 @@ Team Members - Add the names of your team members. Describe roles on the team su
 Contributing - If you'd like others to be able to contribute to your work, outline a process through which they can submit a request for changes to be incorporated. More specifically, outline the Git workflow for these contributors. Should they use a feature branching workflow? Should they rebase or merge? Should the fork the repository? What is the review process?
 Roadmap - What future enhancements are planned? What is the current status of the project? Is it being actively maintained?
 License - If open source, state how the project is licensed.
+ -->
